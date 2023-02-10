@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/JoaoAlisonTI/QR-code-component)
+- Live Site URL: [Add live site URL here](https://joaoalisonti.github.io/QR-code-component/)
 
 ## My process
 
@@ -43,7 +43,7 @@ I learned how to use the flex display correctly. In fact, I already had in mind 
 
 ### Continued development
 
-What I realized with this project is that I need to keep working with projects that require responsiveness, I couldn't make it very responsive, however, I will work more with that in future projects 🚀.
+What I realized with this project is that I need to continue working with projects that require responsiveness, I managed to make it a little responsive, however, I will work more with this in future projects 🚀.
 
 
 ## Author
